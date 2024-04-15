@@ -1,4 +1,5 @@
 # 2.-Bank-Loan-Portfolio-Analysis
+Go through the attached ppt and query file 
 Over View - •	Data loaded to MS SQL Server undergo certain query operations to calculate KPI’s, MTD, MoM, comparing percentage of Good & Bad Loans
 •	Identifying Overview of loan trend wrt Month, State, Term 
 •	Creating Dashboard in PowerBI by adding columns, DAX measures, making it more interactive with aid of slicers, formatting dashboard, comparing the results.
